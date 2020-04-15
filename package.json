@@ -22,7 +22,7 @@
     "url": "git+https://github.com/MHeroBrine/simpleCli-ts.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/MHeroBrine/simpleCli-ts/issues"
   },
